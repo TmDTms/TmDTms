@@ -1,7 +1,7 @@
 ### Hi there 👋
--I am Park Jeong Pill.
--I am learning C++, Ocaml.
--Recently, I started part time job! It is very hard.
+*I am Park Jeong Pill.
+*I am learning C++, Ocaml.
+*Recently, I started part time job! It is very hard.
 <!--
 **TmDTms/TmDTms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
