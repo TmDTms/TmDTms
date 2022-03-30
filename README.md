@@ -2,7 +2,6 @@
 * I am Park Jeong Pill.
 * I am learning C++, Java, Solidity, Ocaml.
 * And I'm going to learn C#! (To be a Game Developer)
-* Recently, I started part time job! It is very hard.
 <!--
 **TmDTms/TmDTms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
